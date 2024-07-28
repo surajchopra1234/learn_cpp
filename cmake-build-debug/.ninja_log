@@ -1,0 +1,13 @@
+# ninja log v6
+10	1383	7438872301764868	CMakeFiles/learn_cpp.dir/main.cpp.obj	b983fbdc22190ada
+6	320	7438877252779235	build.ninja	82497ccdc4e871d7
+1384	2797	7438872315509513	learn_cpp.exe	33c9a8f36869f7c7
+25	1369	7438876767504766	CMakeFiles/learn_cpp.dir/classes/team.cpp.obj	cb728c8b8185cdf1
+15	1316	7438872301815510	CMakeFiles/learn_cpp.dir/classes/employee.cpp.obj	6958a7e100f72e59
+31	1214	7438876767557519	CMakeFiles/learn_cpp.dir/classes/player.cpp.obj	c46a1c8bba799aea
+16	1900	7438876767411654	CMakeFiles/learn_cpp.dir/module_4.cpp.obj	b85ddb4229d1a640
+20	2062	7438876767452879	CMakeFiles/learn_cpp.dir/classes/game.cpp.obj	eed20e99ca9e66e0
+4	313	7438877252779235	build.ninja	82497ccdc4e871d7
+10	200	7438877253350864	learn_cpp.exe	f247444f1e398347
+10	1734	7438878025076462	CMakeFiles/learn_cpp.dir/main.cpp.obj	b983fbdc22190ada
+1735	1980	7438878042325825	learn_cpp.exe	f247444f1e398347
